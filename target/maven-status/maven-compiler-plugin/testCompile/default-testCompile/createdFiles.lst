@@ -1,0 +1,10 @@
+se/kth/iv1350/groceryStore/integration/ExtInventorySystemTest.class
+se/kth/iv1350/groceryStore/model/AddItemTest.class
+se/kth/iv1350/groceryStore/controller/ScanItemTestWithExceptions$1$1.class
+se/kth/iv1350/groceryStore/controller/ScanItemTestWithExceptions$1.class
+se/kth/iv1350/groceryStore/integration/WriteToLoggerTest.class
+se/kth/iv1350/groceryStore/integration/ItemInvalidExceptionTest.class
+se/kth/iv1350/groceryStore/controller/ScanItemTestWithExceptions.class
+se/kth/iv1350/groceryStore/integration/SystemCreatorTest.class
+se/kth/iv1350/groceryStore/integration/DatabaseConnectionExceptionTest.class
+se/kth/iv1350/groceryStore/view/ExceptionHandlerTest.class
